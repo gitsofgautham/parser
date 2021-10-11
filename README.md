@@ -8,3 +8,5 @@ External Python3 dependencies:
 PyQt5
 
 pystdf
+
+converter.py -> entry script
